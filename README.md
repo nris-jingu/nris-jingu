@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nris-jingu
+- 👀 I’m interested in DevSecOps and space security technology.
+- 🌱 I’m currently learning some cloud platform.
